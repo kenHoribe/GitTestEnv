@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 horibekengo  staff  160  3 11 11:18 .
+-rw-r--r--   1 horibekengo  staff    0  3 11 11:18 log.txt
+drwxr-xr-x  12 horibekengo  staff  384  3 11 11:17 .git
+-rw-r--r--   1 horibekengo  staff   12  3 11 11:17 README.md
+drwxr-xr-x   4 horibekengo  staff  128  3 11 11:17 ..
